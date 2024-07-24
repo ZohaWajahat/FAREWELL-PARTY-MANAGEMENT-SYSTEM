@@ -1,6 +1,6 @@
-# FAREWELL-PARTY-MANAGEMENT-SYSTEM
+# Farewell-Party-Management-System
 
-# INTRODUCTION
+# Introduction
 The Farewell Party Management System is a comprehensive platform tailored for junior students
 to organize a memorable farewell event for their senior counterparts. This system not only
 simplifies the event planning process but also facilitates the participation of teachers who can
