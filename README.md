@@ -7,3 +7,5 @@ simplifies the event planning process but also facilitates the participation of 
 attend with their families. The objective is to create a wholesome experience, covering aspects
 such as attendee management, task assignments, budget tracking, and detailed planning of
 dinner, stage performances, decorations, and venue arrangements. This includes:
+
+## University-Wide Participation:
