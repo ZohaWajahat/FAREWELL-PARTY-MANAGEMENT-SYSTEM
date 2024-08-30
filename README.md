@@ -9,3 +9,9 @@ such as attendee management, task assignments, budget tracking, and detailed pla
 dinner, stage performances, decorations, and venue arrangements. This includes:
 
 ## University-Wide Participation:
+Enable all university students to suggest items for the dinner menu and volunteer for stage
+performances. Implement a voting system for menu items and performance proposals.
+
+The use cases are as follows:
+
+##### Student Registration\Login
