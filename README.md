@@ -110,7 +110,7 @@ o Send invitations via email, print, or other chosen methods.<br>
 Budget Manager<br>
 
 #### Description:<br>
-Track and manage the budget for the farewell Party.<br>
+  Track and manage the budget for the farewell Party.<br>
 
 #### Use Case Steps:<br>
 #### • Budget Overview:<br>
@@ -122,10 +122,10 @@ o Make adjustments to the budget based on expenditure.<br>
 
 ## Task Assignment
 #### Actors:<br>
-Manager of Each Team (Decor, Invitation, etc.)<br>
+  Manager of Each Team (Decor, Invitation, etc.)<br>
 
 #### Description:<br>
-Assign tasks to team members and track progress.<br>
+  Assign tasks to team members and track progress.<br>
 
 #### Use Case Steps:<br>
 #### • Task Creation:<br>
